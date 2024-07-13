@@ -71,11 +71,11 @@
     top: 50%;
     left: 0;
     transform: translateY(-50%);
-    animation: slide-back 0.3s;
+    animation: slide-back 0.4s;
   }
   
   .light #switch button {
-    animation: slide-in 0.3s forwards;
+    animation: slide-in 0.4s forwards;
   }
   
   #switch button:hover {
